@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Models;
-//Hello!!fgfdsgf 12345 uuuuuuuu!!
+//Hello!!fgfdsgf 12345 uuuuuuuuxxxx!!
 
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
