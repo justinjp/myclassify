@@ -2,6 +2,7 @@
 
 namespace App\Models;
 //Hello!!
+//again
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
